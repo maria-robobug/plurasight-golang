@@ -19,7 +19,6 @@ const (
 )
 
 func main() {
-
 	var s = Salutation{}
 	s.name = "Bob"
 	s.greeting = "Hello World!"
